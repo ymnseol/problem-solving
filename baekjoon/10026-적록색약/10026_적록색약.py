@@ -2,7 +2,6 @@
 # https://www.acmicpc.net/problem/10026
 
 from collections import deque
-from time import sleep
 
 class SimpleGraph:
     def __init__(self, side_len, grid):
