@@ -201,3 +201,7 @@ cython_debug/
 ### Private ###
 # Problems on progress
 *on-progress*
+
+# Prior attempts and consideration
+prior*.py
+consideration*
