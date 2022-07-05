@@ -203,5 +203,5 @@ cython_debug/
 *on-progress*
 
 # Prior attempts and consideration
-prior*.py
+*prior.py
 consideration*
