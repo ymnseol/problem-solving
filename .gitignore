@@ -204,4 +204,5 @@ cython_debug/
 
 # Prior attempts and consideration
 *prior.py
+try*.py
 consideration*
