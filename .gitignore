@@ -206,3 +206,6 @@ cython_debug/
 *prior.py
 try*.py
 consideration*
+
+# Author's solutions in the book
+solution*.py
