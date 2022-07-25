@@ -23,6 +23,7 @@ This repository contains my solutions to the problems on:
 |---|-------|:----------:|:--------:|:--------:|:---:|
 | 12973 | [짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973) | ![12973](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/12973-짝지어-제거하기) | [📄](https://github.com/ymnseol/problem-solving/tree/main/programmers/12973-짝지어-제거하기/README.md) | Stack |
 | 42626 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | ![42626](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/42626-더-맵게) | [📄](https://github.com/ymnseol/problem-solving/tree/main/programmers/42626-더-맵게/README.md)| Heap |
+| 42842 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | ![42842](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/42842-카펫) | | Greedy |
 
 ### [<이것이 취업을 위한 코딩 테스트다 with 파이썬>](https://github.com/ymnseol/problem-solving/tree/main/python-for-coding-test)
 | # | Title | Solved | Document | Tag |
