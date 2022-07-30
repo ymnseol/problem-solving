@@ -27,6 +27,7 @@ This repository contains my solutions to the problems on:
 | 42626 | [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | ![42626](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/42626-더-맵게) | [📄](https://github.com/ymnseol/problem-solving/tree/main/programmers/42626-더-맵게/README.md)| Heap | |
 | 42628 | [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628) | ![42628](https://img.shields.io/badge/Level%203-orange?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/42628-이중우선순위큐) | | Heap | [21939-문제 추천 시스템 on Baekjoon](https://www.acmicpc.net/problem/21939) |
 | 42842 | [카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842) | ![42842](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/42842-카펫) | | Greedy | |
+| 68645 | [삼각 달팽이](https://school.programmers.co.kr/learn/courses/30/lessons/68645) | ![68645](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/68645-삼각-달팽이) | [📄](https://github.com/ymnseol/problem-solving/tree/main/programmers/68645-삼각-달팽이/README.md) | | |
 
 ### [<이것이 취업을 위한 코딩 테스트다 with 파이썬>](https://github.com/ymnseol/problem-solving/tree/main/python-for-coding-test)
 | # | Title | Solved | Document | Tag |
