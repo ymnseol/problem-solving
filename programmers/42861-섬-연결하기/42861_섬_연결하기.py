@@ -7,9 +7,10 @@ class Graph:
         self.edges = edges
     
     def find(self, v):
-        while v != self.root[v]:
-            v = self.root[v]
-        return v
+        if v == self.root[v]:
+            return v
+        self.root[v] = self.find(self.root[v])
+        return self.root[v]
     
     def union(self, u, v):
         root_u = self.find(u)
