@@ -4,9 +4,11 @@
 from itertools import permutations
 
 def solution(k, dungeons):
-    routes = list(permutations(dungeons, len(dungeons)))
+    routes = permutations(dungeons, len(dungeons))
     max_dungeons = 0
     for r in routes:
+        if max_dungeons == len(dungeons):
+            break
         tmp = k
         cnt = 0
         for d in r:
