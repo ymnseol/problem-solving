@@ -67,6 +67,7 @@ This repository contains my solutions to the problems on:
 | 87946 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | ![87946](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/87946-피로도) | | | |
 | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | ![118666](https://img.shields.io/badge/Level%201-green?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/118666-성격-유형-검사하기) | | | |
 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | ![118667](https://img.shields.io/badge/Level%202-gold?style=flat) | [❌ (93.3, 시간 초과)](https://github.com/ymnseol/problem-solving/tree/main/programmers/118667-두-큐-합-같게-만들기) | | | |
+| 118669 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | ![118669](https://img.shields.io/badge/Level%203-orange?style=flat) | [❌ (93.5, 시간 초과)](https://github.com/ymnseol/problem-solving/tree/main/programmers/118669-등산코스-정하기) | | Dijkstra's algorithm | |
 
 ### [<이것이 취업을 위한 코딩 테스트다 with 파이썬>](https://github.com/ymnseol/problem-solving/tree/main/python-for-coding-test)
 | # | Title | Solved | Document | Tag |
