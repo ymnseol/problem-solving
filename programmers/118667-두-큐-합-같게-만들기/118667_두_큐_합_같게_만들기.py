@@ -4,48 +4,26 @@
 from collections import deque
 
 def solution(queue1, queue2):
-    max_e = 0
-    q1 = deque([])
-    q2 = deque([])
-    q1_sum = 0
-    q2_sum = 0
-    
-    for i in range(max(len(queue1), len(queue2))):
-        if i < len(queue1):
-            e = queue1[i]
-            q1.append(e)
-            q1_sum += e
-            if e > max_e:
-                max_e = e
-        if i < len(queue2):
-            e = queue2[i]
-            q2.append(e)
-            q2_sum += e
-            if e > max_e:
-                max_e = e
-
-    target = q1_sum + q2_sum
+    queue = queue1 + queue2
+    left = 0
+    right = len(queue) // 2 - 1
+    curr_sum = sum(queue1)
+    target = curr_sum + sum(queue2)
     if target % 2:
         return -1
     target //= 2
-    
-    if max_e > target:
-        return -1
-    
     cnt = 0
-    
-    while q1_sum != target:
-        while q1_sum > target:
-            e = q1.popleft()
-            q1_sum -= e
-            q2.append(e)
-            q2_sum += e
-            cnt += 1
-        while q1_sum < target:
-            e = q2.popleft()
-            q2_sum -= e
-            q1.append(e)
-            q1_sum += e
-            cnt += 1
-    
-    return cnt
+    while left <= right < len(queue):
+        if curr_sum == target:
+            return cnt
+        elif curr_sum < target:
+            right += 1
+            if right < len(queue):
+                curr_sum += queue[right]
+            else:
+                return -1
+        else:
+            curr_sum -= queue[left]
+            left += 1
+        cnt += 1
+    return -1
