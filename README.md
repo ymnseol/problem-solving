@@ -18,6 +18,7 @@ This repository contains my solutions to the problems on:
 | 10026 | [적록색약](https://www.acmicpc.net/problem/10026) | ![10026](https://img.shields.io/badge/Gold%20V-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/baekjoon/10026-적록색약) |  | BFS |
 | 13458 | [시험 감독](https://www.acmicpc.net/problem/13458) | ![13458](https://img.shields.io/badge/Bronze%20II-saddlebrown?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/baekjoon/13458-시험-감독) | | |
 | 15650 | [N과 M (2)](https://www.acmicpc.net/problem/15650) | ![15650](https://img.shields.io/badge/Silver%20III-silver?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/baekjoon/15650-N과-M-(2)) | | |
+| 25305 | [커트라인](https://www.acmicpc.net/problem/25305) | ![25305](https://img.shields.io/badge/Bronze%20II-saddlebrown?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/baekjoon/25305-커트라인) | | |
 | 21939 | [문제 추천 시스템 Version 1](https://www.acmicpc.net/problem/21939) | ![21939](https://img.shields.io/badge/Gold%20IV-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/baekjoon/21939-문제-추천-시스템-Version-1) |  | Heap |
 ### [LeetCode](https://github.com/ymnseol/problem-solving/tree/main/leetcode)
 | # | Title | Difficulty | Accepted | Document | Tag |
@@ -76,7 +77,7 @@ This repository contains my solutions to the problems on:
 | 87946 | [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946) | ![87946](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/87946-피로도) | | | |
 | 118666 | [성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666) | ![118666](https://img.shields.io/badge/Level%201-green?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/118666-성격-유형-검사하기) | | | |
 | 118667 | [두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667) | ![118667](https://img.shields.io/badge/Level%202-gold?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/118667-두-큐-합-같게-만들기) | [📄](https://github.com/ymnseol/problem-solving/blob/main/programmers/118667-두-큐-합-같게-만들기/README.md) | Two pointers | |
-| 118669 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | ![118669](https://img.shields.io/badge/Level%203-orange?style=flat) | [❌ (93.5, 시간 초과)](https://github.com/ymnseol/problem-solving/tree/main/programmers/118669-등산코스-정하기) | | Dijkstra's algorithm | |
+| 118669 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | ![118669](https://img.shields.io/badge/Level%203-orange?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/118669-등산코스-정하기) | | BFS, Dijkstra's algorithm | |
 
 ### [<이것이 취업을 위한 코딩 테스트다 with 파이썬>](https://github.com/ymnseol/problem-solving/tree/main/python-for-coding-test)
 | # | Title | Solved | Document | Tag |
