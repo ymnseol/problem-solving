@@ -209,3 +209,6 @@ consideration*
 
 # Author's solutions in the book
 solution*.py
+
+# Unused images
+images/(unused)*
