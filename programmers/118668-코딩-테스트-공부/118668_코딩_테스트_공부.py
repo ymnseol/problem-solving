@@ -1,10 +1,18 @@
+# 프로그래머스 - 코딩 테스트 공부(118668)
+# https://school.programmers.co.kr/learn/courses/30/lessons/118668
+
 import heapq
 from collections import defaultdict
 
 def solution(alp, cop, problems):
-    max_alp = max([prob[0] for prob in problems])
-    max_cop = max([prob[1] for prob in problems])
-    graph = {(prob[0], prob[1]): (prob[2], prob[3], prob[4]) for prob in problems}
+    graph = dict()
+    max_alp = 0
+    max_cop = 0
+    for prob in problems:
+        max_alp = max(prob[0], max_alp)
+        max_cop = max(prob[1], max_cop)
+        graph[(prob[0], prob[1])] = (prob[2], prob[3], prob[4])
+    
     if alp >= max_alp and cop >= max_cop:
         return 0
     alp, cop = min(alp, max_alp), min(cop, max_cop)
@@ -16,6 +24,10 @@ def solution(alp, cop, problems):
     while pq:
         curr_cost, ua, uc = cu = heapq.heappop(pq)
         u = (ua, uc)
+        
+        if cu in visited:
+            continue
+        visited.add(cu)
         
         if curr_cost > cost[u]:
             continue
