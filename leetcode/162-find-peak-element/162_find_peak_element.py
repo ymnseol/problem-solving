@@ -1,5 +1,5 @@
 # LeetCode - Find Peak Element(162)
-# https://leetcode.com/problems/find-peak-element/description/
+# https://leetcode.com/problems/find-peak-element/
 
 from typing import List
 
