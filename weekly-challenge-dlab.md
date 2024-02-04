@@ -3,7 +3,7 @@
 | Date | # | Title | Difficulty | Accepted | Document | Tag |
 |------|---|-------|:----------:|:--------:|:--------:|:---:|
 | Feb 4, 2024 | 120878 | [유한소수 판별하기](https://school.programmers.co.kr/learn/courses/30/lessons/120878) | ![120878](https://img.shields.io/badge/Level%200-blue?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/120878-유한소수-판별하기) | | |
-| Feb 4, 2024 | 120871 | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | ![120871](https://img.shields.io/badge/Level%200-blue?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/120872-저주의-숫자-3) | | |
+| Feb 4, 2024 | 120871 | [저주의 숫자 3](https://school.programmers.co.kr/learn/courses/30/lessons/120871) | ![120871](https://img.shields.io/badge/Level%200-blue?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/120871-저주의-숫자-3) | | |
 | Feb 4, 2024 | 120812 | [최빈값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/120812) | ![120812](https://img.shields.io/badge/Level%200-blue?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/120812-최빈값-구하기) | | |
 | Feb 4, 2024 | 120923 | [연속된 수의 합](https://school.programmers.co.kr/learn/courses/30/lessons/120923) | ![120923](https://img.shields.io/badge/Level%200-blue?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/120923-연속된-수의-합) | | |
 | Feb 4, 2024 | 181916 | [주사위 게임 3](https://school.programmers.co.kr/learn/courses/30/lessons/181916) | ![181916](https://img.shields.io/badge/Level%200-blue?style=flat) | [✅](https://github.com/ymnseol/problem-solving/tree/main/programmers/181916-주사위-게임-3) | | |
